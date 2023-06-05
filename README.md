@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoleacmihai&label=Profile%20views&color=0e75b6&style=flat" alt="smoleacmihai" /> </p>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="600" height="300"/>
+</div>
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smoleacmihai" alt="smoleacmihai" /></a> </p> -->
 
 <!-- - 📫 How to reach me **mihaismoleac2002@gmail.com** -->
