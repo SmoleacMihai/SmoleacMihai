@@ -2,7 +2,7 @@
 <h3 align="center">Software developer exploring new things</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="800" height="500"/>
+  <img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="800" height="400"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoleacmihai&label=Profile%20views&color=0e75b6&style=flat" alt="smoleacmihai" /> </p>
 
